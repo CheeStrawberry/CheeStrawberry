@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/chavi-sharma-cf7719288/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://github.com/CheeStrawberry">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GithUB&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="http://www.instagram.com/chaviisharmaa/">
