@@ -9,7 +9,7 @@
   <a href="https://github.com/CheeStrawberry">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GithUB&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="http://www.instagram.com/chaviisharmaa/">
+  <a href="http://www.instagram.com/chavi7s/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
@@ -21,12 +21,12 @@
 
 Hi! My name is Chavi Sharma 🙋🏻‍♀️
 =======
-I'm currently pursuing my Bachelors Degree in Mechatronics Engineering at the University of Waterloo-!!
+I'm currently pursuing my Bachelors Degree in Mechatronics Engineering at the University of Waterloo!!
 <br>
 
 <!-- about me -->
 - 📍 Waterloo, Ontario
-- 👩🏻‍💻 I’m currently learning CAD softwares
+- 👩🏻‍💻 I’m interested in Web Development at the moment
 - 📧 You can reach out to me at sharmachavi1221@gmail.com
 - 🙋🏻‍♀️ Pronouns: she/her
 
@@ -52,6 +52,7 @@ I'm currently pursuing my Bachelors Degree in Mechatronics Engineering at the Un
 
 <!-- my stats -->
 ### My Stats:
+<!--<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=CheeStrawberry">-->
 <!-- github streak -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheestrawberry&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- language used -->
