@@ -54,6 +54,6 @@ I'm currently pursuing my Bachelors Degree in Mechatronics Engineering at the Un
 ### My Stats:
 <!--<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=CheeStrawberry">-->
 <!-- github streak -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheestrawberry&theme=nightowl)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheestrawberry&theme=nightowl)
 <!-- language used -->
 <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheeStrawberry&layout=compact&theme=nightowl&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="chavi" /></td>
