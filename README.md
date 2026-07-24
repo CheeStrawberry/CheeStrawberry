@@ -31,7 +31,7 @@ I'm currently pursuing my Bachelors Degree in Mechatronics Engineering at the Un
 - 🙋🏻‍♀️ Pronouns: she/her
 
 <!-- languages and softwares -->
-### Languages/Tools/Frameworks/CAD Softwares:
+<!--### Languages/Tools/Frameworks/CAD Softwares:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="33" height="33"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="33" height="33"/>&nbsp;
@@ -60,4 +60,4 @@ I'm currently pursuing my Bachelors Degree in Mechatronics Engineering at the Un
 <!-- language used -->
 <!-- <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheeStrawberry&layout=compact&theme=nightowl&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="chavi" /></td> -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheeStrawberry&show_icons=true&theme=nightowl)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheeStrawberry&show_icons=true&theme=nightowl)
